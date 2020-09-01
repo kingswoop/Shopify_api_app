@@ -1,0 +1,10 @@
+click==7.1.1
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+Werkzeug==1.0.0
+requests==2.22.0
+json5==0.8.5
+PyMySQL==0.9.3
+python-shopify==0.1.3
